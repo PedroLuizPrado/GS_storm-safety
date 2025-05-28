@@ -34,6 +34,19 @@ Aplicativo mobile desenvolvido com React Native e Firebase que permite que usuá
 - TypeScript  
 - Lucide Icons  
 
+## 🧭 Roteiro de Apresentação
+
+1. **Abertura do app**  
+2. **Cadastro e Login**  
+3. **Home**: saudação com nome do usuário e opções de ação  
+4. **Adicionar Alerta**:
+   - Informar nome, localização, descrição do problema e imagem  
+   - Salvar os dados localmente  
+5. **Histórico de Alertas**:
+   - Visualizar alertas adicionados  
+   - Editar nome, localização, problema ou imagem  
+   - Excluir um alerta  
+6. **Retorno para Home** via botão de navegação  
 
 ## 🎯 Objetivo do Projeto
 
@@ -41,4 +54,19 @@ Este projeto foi desenvolvido com o objetivo de ajudar usuários a **reportarem 
 
 ---
 
-Desenvolvido como parte do desafio **Mobile Application Development - FIAP**
+## 🚀 Como rodar o projeto
+
+1. **Clone o repositório**  
+```
+git clone https://github.com/seu-usuario/storm-safety.git
+cd storm-safety
+```
+2.Instale as dependências
+```
+npm install
+```
+
+3. Execute o projeto com o Expo
+```
+npx expo start
+```
