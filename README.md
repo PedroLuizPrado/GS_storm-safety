@@ -34,19 +34,6 @@ Aplicativo mobile desenvolvido com React Native e Firebase que permite que usuá
 - TypeScript  
 - Lucide Icons  
 
-## 🧭 Roteiro de Apresentação
-
-1. **Abertura do app**  
-2. **Cadastro e Login**  
-3. **Home**: saudação com nome do usuário e opções de ação  
-4. **Adicionar Alerta**:
-   - Informar nome, localização, descrição do problema e imagem  
-   - Salvar os dados localmente  
-5. **Histórico de Alertas**:
-   - Visualizar alertas adicionados  
-   - Editar nome, localização, problema ou imagem  
-   - Excluir um alerta  
-6. **Retorno para Home** via botão de navegação  
 
 ## 🎯 Objetivo do Projeto
 
